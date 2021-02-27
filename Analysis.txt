@@ -1,0 +1,8 @@
+PARTNERS
+cs8afaea
+cs8afacy
+The example scaledCrane looks exactly like the image Crane.jpg, but it has a width of 300 and a height of 200.
+The example canvas3 is a green image with a width of 500 and a height of 500.
+The example framedCrane is the image Crane.jpg with a blue frame of a thickness of 100.
+The example croppedCatAndDog is the crop of the image Cute_cat_and_dog_3.jpg with the coordinates 0, 900, 1700, 1700.
+The example overlayedImages is the overlay of the image Crane.jpg on top of the image Cute_cat_and_dog_3.jpg with topLeftCol 0 and topLeftRow 50.
